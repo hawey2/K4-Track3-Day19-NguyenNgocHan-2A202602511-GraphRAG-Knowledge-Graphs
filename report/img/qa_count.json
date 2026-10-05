@@ -1,0 +1,44 @@
+[
+  {
+    "labels": [
+      "Article"
+    ],
+    "count": 18
+  },
+  {
+    "labels": [
+      "Case"
+    ],
+    "count": 14
+  },
+  {
+    "labels": [
+      "Clause"
+    ],
+    "count": 99
+  },
+  {
+    "labels": [
+      "Crime"
+    ],
+    "count": 13
+  },
+  {
+    "labels": [
+      "Location"
+    ],
+    "count": 7
+  },
+  {
+    "labels": [
+      "Person"
+    ],
+    "count": 36
+  },
+  {
+    "labels": [
+      "Substance"
+    ],
+    "count": 17
+  }
+]
